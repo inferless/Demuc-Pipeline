@@ -1,6 +1,5 @@
 build:
-  system_packages:
-    - "libssl-dev"
+  cuda_version: "12.1.1"
   python_packages:
     - "requests==2.31.0"
     - "transformers"
